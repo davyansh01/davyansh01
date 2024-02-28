@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 
 ###
 
-<h2 align="left">highly skilled and detail-oriented web developer with apassion for crafting visually appealing and intuitivewebsites. Proven expertise in front-end development,with a strong understanding of user experience andresponsive design.</h2>
+<h3 align="left">A skilled and meticulous web developer with a strong passion for creating visually attractive and user-friendly websites. Specializes in front-end development, with a deep comprehension of user experience and responsive design.</h3>
 
 ###
 
-<p align="left">📚 I'm currently learning MERN<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">📚 I'm currently learning MERN<br></p>
 
 ###
 
@@ -39,16 +39,14 @@ Here are some ideas to get you started:
   <img width="12" />
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  /> -->
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expressjs/expressjs-original.svg" height="40" alt="expressjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs-logo" width="12"/>
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  /> -->
 </div>
 
